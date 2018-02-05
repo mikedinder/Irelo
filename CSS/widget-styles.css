@@ -1,5 +1,4 @@
 /**** Document Globals ****/
-
 body {
   width: 100%;
   height: 100%;
@@ -20,7 +19,6 @@ body {
 }
 
 /**** SHARED VIEW OBJECTS ****/
-
 #irelo-widget {
   width: calc(100% - 2em);
   min-height: 7em;
@@ -28,7 +26,6 @@ body {
   margin: 0 auto 2em;
   text-align: center;
   overflow: hidden;
-  /* background-color: #b8bce5; */
   background: #b8bce5 url(../Images/bkgd-irelo-widget.png) repeat center center;
   background-size: 9.75em 8.69em;
   border: 0.01em solid #000;
@@ -51,7 +48,6 @@ body {
 #irelo-widget .view-container {
   width: 100%;
   height: 6em;
-  /* background-color: #b8bce5; */
   border-radius: 0.1em;
   overflow: hidden;
   opacity: 1;
@@ -121,7 +117,6 @@ body {
 #irelo-widget .view-container .btn-container .btn:focus .active {
   border: 0 none !important;
   outline: 0 non !important;
-  /* outline: 1px dotted #000; */
 }
 
 #irelo-widget .view-container .btn-container .btn:active .active,

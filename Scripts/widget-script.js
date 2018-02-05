@@ -1,3 +1,7 @@
+/* IRELO CO - OPERATIVE ADVERTISING WIDGET - V1.1.0 - 2018-02-04
+ * http://www.mikedinder.com
+ * Copyright (c) 2018 Mike Dinder */
+
 // On Page Load
 $(function () {
   var ireloWidget    = $('#irelo-widget'),
