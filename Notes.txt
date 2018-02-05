@@ -1,0 +1,6 @@
+Tutorial: https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form
+
+Authorization=4d69e62f60ab-{first-initial}{last-name} is a POST header param.
+verify=email or 10 digit is a POST body param.
+
+Email GitHub Repository To: abbe@irelo.com
